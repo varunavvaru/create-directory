@@ -1,6 +1,6 @@
 ---
 dependencies: []
 
-galaxy_info:
-  author: Varun Avvaru
-  description: Role for creating a tmp directory.
+#galaxy_info:
+#  author: Varun Avvaru
+#  description: Role for creating a tmp directory.
